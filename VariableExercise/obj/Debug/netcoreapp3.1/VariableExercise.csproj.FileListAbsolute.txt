@@ -1,0 +1,14 @@
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.exe
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.deps.json
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.runtimeconfig.json
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.runtimeconfig.dev.json
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.dll
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.pdb
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.csproj.AssemblyReference.cache
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.AssemblyInfoInputs.cache
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.AssemblyInfo.cs
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.csproj.CoreCompileInputs.cache
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.dll
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.pdb
+C:\Users\hall_\OneDrive\Desktop\repos\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.genruntimeconfig.cache
